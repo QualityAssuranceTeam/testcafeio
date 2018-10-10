@@ -6,7 +6,8 @@
   "scripts": {
     "test": "testcafe all tests/test01.js",
     "test:firefox": "testcafe firefox tests/test01.js",
-    "test:chrome": "testcafe chrome tests/test01.js"
+    "test:chrome": "testcafe chrome tests/test01.js",
+    "test:headless": "testcafe chrome:headless tests/test01.js"
   },
   "author": "",
   "license": "ISC"
