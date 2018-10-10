@@ -2,7 +2,7 @@
   "name": "testcafeio",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "test": "testcafe all tests/test01.js",
     "test:firefox": "testcafe firefox tests/test01.js",
